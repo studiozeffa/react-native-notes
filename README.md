@@ -34,6 +34,7 @@ The following notes provide a broad overview to allow you to build a React Nativ
 - [List Performance](http://matthewsessions.com/2017/05/15/optimizing-list-render-performance.html)
 - [StatusBar](https://facebook.github.io/react-native/docs/statusbar.html)
 - [Platform Specific Code](https://facebook.github.io/react-native/docs/platform-specific-code.html)
+- [Cross-Platform Styling](https://medium.com/differential/better-cross-platform-react-native-components-cb8aadeba472)
 - [ActivityIndicator](https://facebook.github.io/react-native/docs/activityindicator.html)
 - [Text truncation](https://facebook.github.io/react-native/docs/text.html#ellipsizemode)
 - [React Navigation](https://reactnavigation.org/):
@@ -55,3 +56,9 @@ The following notes provide a broad overview to allow you to build a React Nativ
 
 - [moment](https://momentjs.com/)
 - [axios](https://github.com/axios/axios)
+
+## Further Reading
+
+- [React Native docs](https://facebook.github.io/react-native/)
+- [React Native Express](http://www.reactnativeexpress.com/)
+- [Curated list of React Native resources](http://www.awesome-react-native.com/)
