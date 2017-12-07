@@ -84,3 +84,10 @@ The newly scaffolded app should open on your device, and should be connected to 
 
 - Ensure your computer and device are on the same network.
 - If you are on Windows, and have VirtualBox or VMWare installed, `yarn start` might not work properly. [Follow these instructions to solve](https://github.com/react-community/create-react-native-app/issues/60#issuecomment-317104728).
+
+## Other Guides
+
+Refer to the below to see some alternative setup instructions. They all follow the same general pattern as above but may offer additional help.
+
+- [Official Docs](https://facebook.github.io/react-native/docs/getting-started.html)
+- [React Native Express](http://www.reactnativeexpress.com/quick_start)
