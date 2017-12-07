@@ -23,7 +23,7 @@ The following notes provide a broad overview to allow you to build a React Nativ
 
 - [React recap](http://www.reactnativeexpress.com/components)
 - [View](http://www.reactnativeexpress.com/view)
-- [Text]https://facebook.github.io/react-native/docs/text.html
+- [Text](https://facebook.github.io/react-native/docs/text.html)
 - [Styles](https://facebook.github.io/react-native/docs/style.html) and [StyleSheet](https://facebook.github.io/react-native/docs/stylesheet.html)
 - [Flexbox](http://www.reactnativeexpress.com/flexbox)
 - [Image](http://www.reactnativeexpress.com/image)
