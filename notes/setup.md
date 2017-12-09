@@ -6,7 +6,7 @@ The tl;dr is:
 
 - Install [node.js](https://nodejs.org/en/)
 - Install [yarn](https://yarnpkg.com/)
-- Install [React Native Debugger](https://github.com/jhen0409/react-native-debugger)
+- Install [Google Chrome](https://www.google.com/chrome/)
 - Install the [Expo mobile app](https://expo.io/) on your device
 - Install [Create React Native App](https://github.com/react-community/create-react-native-app)
 - Use Create React Native App to scaffold and start a new app
@@ -24,11 +24,9 @@ React Native supports both npm4 and yarn. Node 8, however, ships with npm5 - thi
 
 To install yarn, [go to the download page](https://yarnpkg.com/en/docs/install) and find the installation instructions for your OS.
 
-## Install React Native Debugger
+## Install Google Chrome
 
-The next tool we need to install is [React Native Debugger](https://github.com/jhen0409/react-native-debugger). This allows you to connect to your running app to debug and inspect it.
-
-To install, go to the [releases page](https://github.com/jhen0409/react-native-debugger/releases) and download the correct version for your OS.
+In order to connect to your app for debugging purposes, you need to install Google Chrome from [the download page](https://www.google.com/chrome/browser/desktop/).
 
 ## Install the Expo mobile app
 
@@ -65,18 +63,9 @@ cd my-sample-app
 yarn start
 ```
 
-You should see a QR code generated.
+Wait a couple of minutes for the server to start, and then you should see a QR code presented in the terminal.
 
-Next, open the React Native Debugger. By default, it is listening on the wrong port - fix this with the following:
-
-- Select the 'Debugger' menu, and choose 'New Window'
-- Ensure the port is set to `19001` and press 'Confirm'
-
-The React Native Debugger should now be listening on the correct port.
-
-Finally, open the Expo app on your mobile device, and scan the QR code.
-
-The newly scaffolded app should open on your device, and should be connected to the React Native Debugger.
+Open the Expo app on your mobile device, and scan the QR code. The newly scaffolded app should open on your device.
 
 ## Troubleshooting
 
