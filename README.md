@@ -17,7 +17,7 @@ The following notes provide a broad overview to allow you to build a React Nativ
 
 - [Expo](https://expo.io)
 - [yarn](https://yarnpkg.org)
-- [Setup and Scaffolding](notes/setup.md)
+- [Setup and Scaffolding](notes/01-setup.md)
 
 ### Building Blocks
 
